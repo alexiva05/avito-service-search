@@ -1,0 +1,49 @@
+# Source datasets
+/dataset/
+/data/
+/sources/
+
+# Generated indexes, embeddings, model weights, and predictions
+/cache/
+/.cache/
+/models/
+/checkpoints/
+/artifacts/cache/
+/artifacts/embeddings/
+/artifacts/indexes/
+/artifacts/models/
+/artifacts/checkpoints/
+/submission.*
+
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+/build/
+/dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Notebook checkpoints; keep research notebooks under version control
+.ipynb_checkpoints/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.python-version
+
+# Editor, OS, and local agent metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+/.codex/
+/.agents/
+*.log
