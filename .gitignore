@@ -2,6 +2,7 @@
 /dataset/
 /data/
 /sources/
+/answer.csv
 
 # Generated indexes, embeddings, model weights, and predictions
 /cache/
