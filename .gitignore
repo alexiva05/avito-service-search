@@ -8,11 +8,6 @@
 /.cache/
 /models/
 /checkpoints/
-/artifacts/cache/
-/artifacts/embeddings/
-/artifacts/indexes/
-/artifacts/models/
-/artifacts/checkpoints/
 /submission.*
 
 # Python environments and generated files
